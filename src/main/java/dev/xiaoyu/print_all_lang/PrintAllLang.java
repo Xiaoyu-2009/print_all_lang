@@ -1,4 +1,4 @@
-package net.xiaoyu.print_all_lang;
+package dev.xiaoyu.print_all_lang;
 
 import net.minecraftforge.fml.common.Mod;
 import org.slf4j.Logger;

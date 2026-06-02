@@ -1,4 +1,4 @@
-package net.xiaoyu.print_all_lang.init.mixin.minecraft.client.resources.language;
+package dev.xiaoyu.print_all_lang.init.mixin.minecraft.client.resources.language;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -6,7 +6,7 @@ import net.minecraft.client.resources.language.LanguageManager;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.packs.resources.Resource;
 import net.minecraft.server.packs.resources.ResourceManager;
-import net.xiaoyu.print_all_lang.PrintAllLang;
+import dev.xiaoyu.print_all_lang.PrintAllLang;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

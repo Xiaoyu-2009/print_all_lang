@@ -1,7 +1,7 @@
 {
     "required": true,
     "minVersion": "0.8",
-    "package": "net.xiaoyu.print_all_lang.init.mixin",
+    "package": "dev.xiaoyu.print_all_lang.init.mixin",
     "compatibilityLevel": "JAVA_17",
     "refmap": "META-INF/jarjar/refmap/print_all_lang.refmap.json",
     "mixins": [],
